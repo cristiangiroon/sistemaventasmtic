@@ -1,0 +1,30 @@
+.btn-log {
+    margin-left: 10px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #2f3031;
+    border-color: #a6a7a8;
+}
+
+.navbar-light .navbar-brand {
+    color: rgb(225 225 225 / 90%);
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255 255 255 / 55%);
+}
+
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgb(216 205 205 / 90%);
+}
+
+.styledark{
+    font-family: 'Roboto' , sans-serif;
+}
+
+    .nav-link {
+        color: #f7fafe;
+}
