@@ -24,6 +24,7 @@ function ListProducts(props) {
             'Fecha': inputFecha,
             'Referencia': inputReferencia
         }
+        
         setDatos(datosForm);
         const updateUsers = () => {
             fetch(`${apiBaseUrl}/act-products`, {
