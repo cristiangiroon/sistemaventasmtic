@@ -18,8 +18,7 @@ export const FooterComponent = () => {
                         <div className="col-md-12">
                             <p className="titulo">
                            SISTEMA DE CONTROL DE VENTAS <br />
-                           CRISTIAN GIRÓN <br />
-                           POPAYÁN-COLOMBIA
+                           2021<br />
                             </p>
                         </div>
                     </div>
